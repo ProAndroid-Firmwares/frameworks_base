@@ -42,6 +42,8 @@ public final class CategoryKey {
             "com.android.settings.category.ia.development";
     public static final String CATEGORY_NOTIFICATIONS =
             "com.android.settings.category.ia.notifications";
+    //Proandroid Tuner
+    public static final String CATEGORY_PROANDROID = "com.android.settings.category.ia.proandroid";
 
     public static final Map<String, String> KEY_COMPAT_MAP;
 
